@@ -66,6 +66,6 @@ Approval rates were relatively consistent across income groups.
 
 ## Screenshot
 
-![image alt]()
+![image alt](https://github.com/Nayemsyed/Loan-Approval-Status/blob/main/screenshot_of_loan_status.png)
 
 
