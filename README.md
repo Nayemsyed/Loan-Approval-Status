@@ -66,4 +66,6 @@ Approval rates were relatively consistent across income groups.
 
 ## Screenshot
 
+![image alt]()
+
 
